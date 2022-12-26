@@ -1,0 +1,9 @@
+body{
+    background-color: #E9ECEF;
+}
+.fiyat{
+    text-align: center;
+    background-color: rgb(184, 184, 184);
+    width: 40px;
+    border-radius: 10px;
+}
